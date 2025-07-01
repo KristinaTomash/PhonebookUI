@@ -37,6 +37,7 @@ if(!app.getUser().isLoginLinkPresent()){
         softAssert.assertAll();
 
 
+
     }
 
 }
