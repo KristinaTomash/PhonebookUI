@@ -36,8 +36,7 @@ if(!app.getUser().isLoginLinkPresent()){
         softAssert.assertTrue(app.getUser().isErrorMessagePresent());
         softAssert.assertAll();
 
-
-
     }
+
 
 }
